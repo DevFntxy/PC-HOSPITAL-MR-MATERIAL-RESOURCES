@@ -1,23 +1,18 @@
-# 🎨 WebApp Frontend
+# 📘 API - User Manual
 
-Este directorio contiene la interfaz gráfica de la aplicación web del sistema hospitalario.
+Este directorio contiene el manual de usuario y documentación funcional de la API del sistema hospitalario.
 
 ## 📁 Contenido
 
-* Componentes visuales y vistas.
-* Lógica de interacción con el usuario.
-* Gestión de rutas y navegación.
-* Integración con servicios API REST.
-* Recursos gráficos y estilos.
+* Guías de uso de endpoints.
+* Ejemplos de solicitudes y respuestas.
+* Procedimientos de autenticación.
+* Descripción de funcionalidades disponibles.
+* Buenas prácticas de integración.
 
-## 🚀 Resumen Técnico
+## 🚀 Objetivo
 
-* Interfaz responsiva y adaptable.
-* Comunicación en tiempo real con el backend.
-* Organización modular de componentes.
-* Optimización para experiencia de usuario y mantenimiento.
-
----
+Facilitar la comprensión e integración de la API mediante documentación clara y estructurada para desarrolladores y usuarios técnicos.
 
 ## Equipo de Desarrollo
 
@@ -25,6 +20,6 @@ Este directorio contiene la interfaz gráfica de la aplicación web del sistema 
 |------------------------------|------------|--------------------------------------|-----------------------------------------------------------|--------------|
 | Derek Sesni Carreño          | `230892`   | Lider, Desarrollo Backend           | [@DevFntxy](https://github.com/DevFntxy)                   | ⚠️ Pendiente |
 | Diego Miguel Rivera Chavez   | `230260`   | Frontend, Diseño y Estructura de BD | [@DiegoMiguel04](https://github.com/DiegoMiguel04)         | ✔️ Validado |
-| José Arturo Garcia Gonzalez  | `230629`   | Diseño y Estructura de BD           | [@ppyo1234](https://github.com/ppyo1234)                   | ✔️ Validado |
+| José Arturo Garcia Gonzalez  | `230629`   | Diseño y Estructura de BD           | [@ppyo1234](https://github.com/ppyo1234)                   | ⚠️ Pendiente |
 | Mauricio Rosales Gabriel     | `220859`   | Desarrollo Backend                  | [@elmau0834x](https://github.com/elmau0834x)               | ⚠️ Pendiente |
-| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ✔️ Validado |
+| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ⚠️ Pendiente |

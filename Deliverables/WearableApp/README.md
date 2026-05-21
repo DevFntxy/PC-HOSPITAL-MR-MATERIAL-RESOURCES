@@ -1,17 +1,20 @@
-# ⌚ WebApp - Sistema Hospitalario
+# ⌚ WearableApp - Sistema Hospitalario
 
-Este directorio contiene todos los entregables, documentación y el código frontend de la aplicación para dispositivos vestibles (Smartwatches) diseñada para el sistema hospitalario.
+Este directorio contiene todos los recursos necesarios para el desarrollo, compilación, despliegue y uso de la aplicación wearable del sistema hospitalario.
 
-## 📁 Estructura del Directorio principal
+## 📁 Estructura del Directorio
 
-* **/build:** Archivos ejecutables y compilados listos para instalarse en los relojes.
-* **/DeployManual:** Guías técnicas para la compilación y configuración de los dispositivos.
-* **/source:** Código fuente completo, dividido en la lógica interna (backend) y la interfaz gráfica (frontend).
-* **/UserManual:** Documentación dirigida al usuario final (personal médico).
+* **/build:** Archivos compilados y recursos generados para distribución e instalación de la aplicación wearable.
+* **/DeployManual:** Documentación técnica y procedimientos para el despliegue e instalación de la aplicación en dispositivos compatibles.
+* **/source:** Código fuente completo de la aplicación wearable, incluyendo lógica de negocio, interfaz y configuración.
+* **/UserManual:** Manual de usuario con instrucciones de uso, navegación y funcionalidades principales de la aplicación.
 
 ## 🚀 Resumen Técnico
-* Interfaz optimizada para pantallas reducidas.
-* Consumo de API REST para sincronización de datos médicos y recursos en tiempo real.
+
+* Aplicación optimizada para dispositivos wearable y pantallas reducidas.
+* Sincronización de datos mediante servicios API REST.
+* Arquitectura modular para facilitar mantenimiento y escalabilidad.
+* Recursos organizados para simplificar compilación, despliegue y soporte técnico.
 
 ---
 
@@ -23,7 +26,8 @@ Este directorio contiene todos los entregables, documentación y el código fron
 | Diego Miguel Rivera Chavez   | `230260`   | Frontend, Diseño y Estructura de BD | [@DiegoMiguel04](https://github.com/DiegoMiguel04)         | ✔️ Validado |
 | José Arturo Garcia Gonzalez  | `230629`   | Diseño y Estructura de BD           | [@ppyo1234](https://github.com/ppyo1234)                   | ✔️ Validado |
 | Mauricio Rosales Gabriel     | `220859`   | Desarrollo Backend                  | [@elmau0834x](https://github.com/elmau0834x)               | ⚠️ Pendiente |
-| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ✔️ Validado|
+| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ✔️ Validado |
+
 
 --- 
 
@@ -31,7 +35,7 @@ Este directorio contiene todos los entregables, documentación y el código fron
 
 ```text
 
-WebApp/
+WearableApp/
 ├── build/
 │   └── README.md
 ├── DeployManual/
