@@ -50,6 +50,22 @@ Gestión de documentos y datos no estructurados (MongoDB).
 DataBases/
 │
 ├── SQL/
+│   │
+│   ├── Backups/
+│   │   └── Readme.md
+│   │
+│   ├── DD/
+│   │    └── Readme.md
+│   │
+│   ├── ERD/
+│   │   └── Readme.md
+│   │
+│   ├── ERD/
+│   │   └── Readme.md
+│   │
+│   ├── RM/
+│   │   └── Readme.md
+│   │
 │   └── Readme.md
 │
 ├── NoSQL/

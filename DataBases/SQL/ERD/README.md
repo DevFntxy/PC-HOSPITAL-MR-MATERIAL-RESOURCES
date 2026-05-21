@@ -1,8 +1,8 @@
-# 🏗️ Esquemas NoSQL (Schemas)
+# 🗺️ Diagramas Entidad-Relación (ERD)
 
-Este directorio almacena la definición de los esquemas utilizados para la validación de datos en MongoDB.
+Este directorio contiene las representaciones visuales de la arquitectura de la base de datos relacional.
 
-Aquí se guardan los archivos correspondientes a las reglas de validación (por ejemplo, modelos de **Mongoose** o **JSON Schema**) que garantizan la integridad de los datos antes de ser insertados en la base de datos.
+Los diagramas (en formatos `.png` o `.pdf`) ilustran cómo se conectan y relacionan las diferentes entidades del sistema, facilitando la comprensión del modelo de datos.
 
 ## Equipo de Desarrollo
 
@@ -12,4 +12,4 @@ Aquí se guardan los archivos correspondientes a las reglas de validación (por 
 | Diego Miguel Rivera Chavez   | `230260`   | Frontend, Diseño y Estructura de BD | [@DiegoMiguel04](https://github.com/DiegoMiguel04)         | ⚠️ Pendiente |
 | José Arturo Garcia Gonzalez  | `230629`   | Diseño y Estructura de BD           | [@ppyo1234](https://github.com/ppyo1234)                   | ⚠️ Pendiente |
 | Mauricio Rosales Gabriel     | `220859`   | Desarrollo Backend                  | [@elmau0834x](https://github.com/elmau0834x)               | ✔️ Validado |
-| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ✔️ Validado |
+| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ⚠️ Pendiente |
