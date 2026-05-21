@@ -1,3 +1,13 @@
+# Directorio: Requisitos No Funcionales (Non-Functional Requirements - NFRs)
+
+## 📁 Propósito de la Carpeta
+Resguarda las restricciones de arquitectura, calidad, rendimiento y seguridad que la base de datos y el servidor del Módulo MR deben soportar para operar en un entorno hospitalario crítico.
+
+## 📄 Documentos que deben incluirse aquí:
+- **`politicas_seguridad_cifrado.md`**: Estándares de encriptación para datos fiscales de proveedores y registros financieros en reposo.
+- **`plan_alta_disponibilidad.md`**: Estrategias de replicación de la base de datos para evitar caídas del sistema de inventario (Uptime del 99.99%).
+- **`acuerdos_nivel_servicio_perf.md`**: Tiempos máximos de respuesta permitidos para las consultas de telemetría médica en emergencias.
+
 ## Equipo de Desarrollo
 
 | Integrante                   | Matrícula | Rol en el Equipo                     | Contacto                                                   |Observaciones |
@@ -6,4 +16,4 @@
 | Diego Miguel Rivera Chavez   | `230260`   | Frontend, Diseño y Estructura de BD | [@DiegoMiguel04](https://github.com/DiegoMiguel04)         | ⚠️ Pendiente |
 | José Arturo Garcia Gonzalez  | `230629`   | Diseño y Estructura de BD           | [@ppyo1234](https://github.com/ppyo1234)                   | ⚠️ Pendiente |
 | Mauricio Rosales Gabriel     | `220859`   | Desarrollo Backend                  | [@elmau0834x](https://github.com/elmau0834x)               | ⚠️ Pendiente |
-| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ⚠️ Pendiente |
+| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ✔️Validado |

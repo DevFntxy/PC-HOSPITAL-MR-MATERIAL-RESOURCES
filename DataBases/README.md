@@ -40,4 +40,27 @@ Gestión de documentos y datos no estructurados (MongoDB).
 | Diego Miguel Rivera Chavez   | `230260`   | Frontend, Diseño y Estructura de BD | [@DiegoMiguel04](https://github.com/DiegoMiguel04)         | ⚠️ Pendiente |
 | José Arturo Garcia Gonzalez  | `230629`   | Diseño y Estructura de BD           | [@ppyo1234](https://github.com/ppyo1234)                   | ⚠️ Pendiente |
 | Mauricio Rosales Gabriel     | `220859`   | Desarrollo Backend                  | [@elmau0834x](https://github.com/elmau0834x)               | ⚠️ Pendiente |
-| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ⚠️ Pendiente |
+| Erick Matias Granillo Mejia  | `220045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ✔️ Validado |
+
+
+
+# Estructura General
+
+```text
+DataBases/
+│
+├── SQL/
+│   └── Readme.md
+│
+├── NoSQL/
+│   │
+│   ├── Backups/
+│   │   └── Readme.md
+│   │
+│   ├── DD/
+│   │    └── Readme.md
+│   │
+│   └── Schemas/
+│       └── Readme.md
+│
+└── README.md
