@@ -1,21 +1,11 @@
-# 🎨 API Frontend Resources
+# 🗂️ Respaldos SQL (Backups)
 
-Este directorio contiene recursos frontend relacionados con la API del sistema hospitalario.
+Este directorio contiene los scripts `.sql` autogenerados para la restauración completa de la base de datos relacional (PostgreSQL).
 
-## 📁 Contenido
-
-* Interfaces de prueba y monitoreo.
-* Recursos gráficos y componentes visuales.
-* Herramientas de documentación interactiva.
-* Configuración de integración con servicios API.
-
-## 🚀 Resumen Técnico
-
-* Recursos diseñados para facilitar integración y pruebas.
-* Comunicación con servicios backend mediante REST.
-* Organización modular y reutilizable.
-* Soporte para herramientas administrativas y desarrollo.
-
+**Instrucción de restauración rápida:**
+```bash
+psql -U usuario -d nombre_bd < ultimo_backup.sql
+```
 ## Equipo de Desarrollo
 
 | Integrante                   | Matrícula | Rol en el Equipo                     | Contacto                                                   |Observaciones |

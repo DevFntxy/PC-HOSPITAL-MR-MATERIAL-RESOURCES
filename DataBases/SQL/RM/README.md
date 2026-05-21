@@ -1,20 +1,8 @@
-# 🎨 API Frontend Resources
+# 📑 Modelo Relacional (RM)
 
-Este directorio contiene recursos frontend relacionados con la API del sistema hospitalario.
+Este directorio contiene la documentación formal del Modelo Relacional.
 
-## 📁 Contenido
-
-* Interfaces de prueba y monitoreo.
-* Recursos gráficos y componentes visuales.
-* Herramientas de documentación interactiva.
-* Configuración de integración con servicios API.
-
-## 🚀 Resumen Técnico
-
-* Recursos diseñados para facilitar integración y pruebas.
-* Comunicación con servicios backend mediante REST.
-* Organización modular y reutilizable.
-* Soporte para herramientas administrativas y desarrollo.
+Aquí se guarda la abstracción teórica y lógica de la base de datos relacional, detallando las dependencias, normalización y las reglas de negocio aplicadas a nivel de base de datos.
 
 ## Equipo de Desarrollo
 

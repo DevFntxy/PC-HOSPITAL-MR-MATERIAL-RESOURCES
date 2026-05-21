@@ -1,21 +1,3 @@
-# 🎨 API Frontend Resources
-
-Este directorio contiene recursos frontend relacionados con la API del sistema hospitalario.
-
-## 📁 Contenido
-
-* Interfaces de prueba y monitoreo.
-* Recursos gráficos y componentes visuales.
-* Herramientas de documentación interactiva.
-* Configuración de integración con servicios API.
-
-## 🚀 Resumen Técnico
-
-* Recursos diseñados para facilitar integración y pruebas.
-* Comunicación con servicios backend mediante REST.
-* Organización modular y reutilizable.
-* Soporte para herramientas administrativas y desarrollo.
-
 ## Equipo de Desarrollo
 
 | Integrante                   | Matrícula | Rol en el Equipo                     | Contacto                                                   |Observaciones |

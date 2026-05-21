@@ -1,20 +1,18 @@
-# 🎨 API Frontend Resources
+# 📘 API - User Manual
 
-Este directorio contiene recursos frontend relacionados con la API del sistema hospitalario.
+Este directorio contiene el manual de usuario y documentación funcional de la API del sistema hospitalario.
 
 ## 📁 Contenido
 
-* Interfaces de prueba y monitoreo.
-* Recursos gráficos y componentes visuales.
-* Herramientas de documentación interactiva.
-* Configuración de integración con servicios API.
+* Guías de uso de endpoints.
+* Ejemplos de solicitudes y respuestas.
+* Procedimientos de autenticación.
+* Descripción de funcionalidades disponibles.
+* Buenas prácticas de integración.
 
-## 🚀 Resumen Técnico
+## 🚀 Objetivo
 
-* Recursos diseñados para facilitar integración y pruebas.
-* Comunicación con servicios backend mediante REST.
-* Organización modular y reutilizable.
-* Soporte para herramientas administrativas y desarrollo.
+Facilitar la comprensión e integración de la API mediante documentación clara y estructurada para desarrolladores y usuarios técnicos.
 
 ## Equipo de Desarrollo
 

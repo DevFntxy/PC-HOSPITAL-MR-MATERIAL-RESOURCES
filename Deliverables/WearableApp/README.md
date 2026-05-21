@@ -1,21 +1,22 @@
-# 🔌 API - Sistema Hospitalario
+# ⌚ WearableApp - Sistema Hospitalario
 
-Este directorio contiene todos los recursos relacionados con la API del sistema hospitalario, incluyendo código fuente, documentación técnica, builds y manuales de usuario y despliegue.
+Este directorio contiene todos los recursos necesarios para el desarrollo, compilación, despliegue y uso de la aplicación wearable del sistema hospitalario.
 
 ## 📁 Estructura del Directorio
 
-* **/build:** Archivos compilados y recursos preparados para despliegue.
-* **/DeployManual:** Documentación técnica para instalación y configuración.
-* **/source:** Código fuente completo de la API.
-* **/UserManual:** Manual de usuario y guía funcional del sistema API.
+* **/build:** Archivos compilados y recursos generados para distribución e instalación de la aplicación wearable.
+* **/DeployManual:** Documentación técnica y procedimientos para el despliegue e instalación de la aplicación en dispositivos compatibles.
+* **/source:** Código fuente completo de la aplicación wearable, incluyendo lógica de negocio, interfaz y configuración.
+* **/UserManual:** Manual de usuario con instrucciones de uso, navegación y funcionalidades principales de la aplicación.
 
 ## 🚀 Resumen Técnico
 
-* Arquitectura basada en servicios REST.
-* Integración con aplicaciones web y wearable.
-* Gestión segura de datos y autenticación.
-* Organización modular para facilitar mantenimiento y escalabilidad.
+* Aplicación optimizada para dispositivos wearable y pantallas reducidas.
+* Sincronización de datos mediante servicios API REST.
+* Arquitectura modular para facilitar mantenimiento y escalabilidad.
+* Recursos organizados para simplificar compilación, despliegue y soporte técnico.
 
+---
 
 ## Equipo de Desarrollo
 
@@ -27,13 +28,14 @@ Este directorio contiene todos los recursos relacionados con la API del sistema 
 | Mauricio Rosales Gabriel     | `220859`   | Desarrollo Backend                  | [@elmau0834x](https://github.com/elmau0834x)               | ✔️ Validado |
 | Erick Matias Granillo Mejia  | `230045`   | Desarrollo Backend                  | [@EMATIAS](https://github.com/EMATIAS230045)               | ✔️ Validado |
 
+
 --- 
 
 # Estructura General
 
 ```text
 
-API/
+WearableApp/
 ├── build/
 │   └── README.md
 ├── DeployManual/

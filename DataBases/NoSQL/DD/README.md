@@ -1,20 +1,8 @@
-# 🎨 API Frontend Resources
+# 📖 Diccionario de Datos NoSQL (DD)
 
-Este directorio contiene recursos frontend relacionados con la API del sistema hospitalario.
+Este directorio contiene la documentación que describe la estructura esperada de los documentos almacenados en la base de datos MongoDB.
 
-## 📁 Contenido
-
-* Interfaces de prueba y monitoreo.
-* Recursos gráficos y componentes visuales.
-* Herramientas de documentación interactiva.
-* Configuración de integración con servicios API.
-
-## 🚀 Resumen Técnico
-
-* Recursos diseñados para facilitar integración y pruebas.
-* Comunicación con servicios backend mediante REST.
-* Organización modular y reutilizable.
-* Soporte para herramientas administrativas y desarrollo.
+Aunque NoSQL es flexible, aquí se definen las colecciones, los campos clave y los tipos de datos que la aplicación espera encontrar y manejar.
 
 ## Equipo de Desarrollo
 

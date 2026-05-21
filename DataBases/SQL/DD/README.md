@@ -1,20 +1,11 @@
-# 🎨 API Frontend Resources
+# 📖 Diccionario de Datos SQL (DD)
 
-Este directorio contiene recursos frontend relacionados con la API del sistema hospitalario.
+Este directorio alberga el Diccionario de Datos de la base de datos relacional (PostgreSQL).
 
-## 📁 Contenido
-
-* Interfaces de prueba y monitoreo.
-* Recursos gráficos y componentes visuales.
-* Herramientas de documentación interactiva.
-* Configuración de integración con servicios API.
-
-## 🚀 Resumen Técnico
-
-* Recursos diseñados para facilitar integración y pruebas.
-* Comunicación con servicios backend mediante REST.
-* Organización modular y reutilizable.
-* Soporte para herramientas administrativas y desarrollo.
+Aquí se detalla la estructura formal de la base de datos, incluyendo:
+* Descripción de las tablas.
+* Columnas y tipos de datos.
+* Restricciones (Llaves Primarias - PK y Llaves Foráneas - FK).
 
 ## Equipo de Desarrollo
 

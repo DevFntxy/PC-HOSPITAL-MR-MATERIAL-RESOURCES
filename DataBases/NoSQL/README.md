@@ -1,20 +1,8 @@
-# 🎨 API Frontend Resources
+# 🏗️ Esquemas NoSQL (Schemas)
 
-Este directorio contiene recursos frontend relacionados con la API del sistema hospitalario.
+Este directorio almacena la definición de los esquemas utilizados para la validación de datos en MongoDB.
 
-## 📁 Contenido
-
-* Interfaces de prueba y monitoreo.
-* Recursos gráficos y componentes visuales.
-* Herramientas de documentación interactiva.
-* Configuración de integración con servicios API.
-
-## 🚀 Resumen Técnico
-
-* Recursos diseñados para facilitar integración y pruebas.
-* Comunicación con servicios backend mediante REST.
-* Organización modular y reutilizable.
-* Soporte para herramientas administrativas y desarrollo.
+Aquí se guardan los archivos correspondientes a las reglas de validación (por ejemplo, modelos de **Mongoose** o **JSON Schema**) que garantizan la integridad de los datos antes de ser insertados en la base de datos.
 
 ## Equipo de Desarrollo
 

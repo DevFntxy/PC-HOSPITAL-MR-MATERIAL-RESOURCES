@@ -1,20 +1,8 @@
-# 🎨 API Frontend Resources
+# 🗺️ Diagramas Entidad-Relación (ERD)
 
-Este directorio contiene recursos frontend relacionados con la API del sistema hospitalario.
+Este directorio contiene las representaciones visuales de la arquitectura de la base de datos relacional.
 
-## 📁 Contenido
-
-* Interfaces de prueba y monitoreo.
-* Recursos gráficos y componentes visuales.
-* Herramientas de documentación interactiva.
-* Configuración de integración con servicios API.
-
-## 🚀 Resumen Técnico
-
-* Recursos diseñados para facilitar integración y pruebas.
-* Comunicación con servicios backend mediante REST.
-* Organización modular y reutilizable.
-* Soporte para herramientas administrativas y desarrollo.
+Los diagramas (en formatos `.png` o `.pdf`) ilustran cómo se conectan y relacionan las diferentes entidades del sistema, facilitando la comprensión del modelo de datos.
 
 ## Equipo de Desarrollo
 
