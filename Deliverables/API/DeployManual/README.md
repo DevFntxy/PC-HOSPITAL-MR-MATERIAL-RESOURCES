@@ -8,7 +8,6 @@ Este directorio contiene la documentación técnica necesaria para el despliegue
 * Configuración del entorno y dependencias.
 * Procedimientos de despliegue en servidor.
 * Variables de entorno y parámetros de configuración.
-* Guías de mantenimiento y actualización.
 
 ## 🚀 Objetivo
 
